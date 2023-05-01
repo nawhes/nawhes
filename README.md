@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nawhes
-- 👀 I’m interested in how to work better
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:476749,100:59815B&height=176&section=header&text=nawhes&fontSize=90&fontColor=FFFFFF&reversal=false)
+
 
 <!---
 nawhes/nawhes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
